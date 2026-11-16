@@ -1,4 +1,4 @@
-# Gaussian entanglement of formation
+# Gaussian entanglement of formation: numerical toolkit
 
 Source repository: https://github.com/gerardo-adesso/gaussian-eof-numerical
 
@@ -105,6 +105,8 @@ accuracy. The calculator is intended for small covariance problems; runtime depe
 - M. M. Wolf, G. Giedke, O. Krüger, R. F. Werner, and J. I. Cirac,
   *Gaussian entanglement of formation*, Physical Review A **69**, 052320 (2004),
   https://doi.org/10.1103/PhysRevA.69.052320.
+- Gerardo Adesso, *Optimality of Gaussian Entanglement of Formation*,
+  arXiv:2608.01909v3 (2026), https://arxiv.org/abs/2608.01909v3.
 - Yuan Gao, *The geometry of Gaussian entanglement of formation*,
   https://aixiv.online/abs/2610.01476.
 

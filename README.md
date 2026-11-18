@@ -112,4 +112,5 @@ accuracy. The calculator is intended for small covariance problems; runtime depe
 
 The derivation and related numerical methods are discussed in Yuan Gao and
 Gerardo Adesso, *Entanglement cost and classical capacity of multimode
-Gaussian states and channels*.
+Gaussian states and channels*, 
+https://arxiv.org/abs/2611.22915.
